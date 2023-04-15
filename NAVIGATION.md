@@ -1,1 +1,2 @@
-- [:house:](https://dzylikecode.github.io/game-DS-scripts/)
+- [:house:](https://DDLife.github.io/DST/)
+- [API](/docs/)

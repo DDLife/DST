@@ -1,0 +1,2 @@
+# craftslot.lua
+

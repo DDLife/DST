@@ -1,0 +1,2 @@
+# boatmagnetbeacon.lua
+

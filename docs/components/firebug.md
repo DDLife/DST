@@ -1,0 +1,2 @@
+# firebug.lua
+

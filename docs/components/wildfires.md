@@ -1,0 +1,2 @@
+# wildfires.lua
+

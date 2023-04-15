@@ -1,0 +1,2 @@
+# maptags.lua
+

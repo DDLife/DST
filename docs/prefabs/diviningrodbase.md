@@ -1,0 +1,2 @@
+# diviningrodbase.lua
+

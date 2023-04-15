@@ -1,0 +1,2 @@
+# lavaarena_lootbeacon.lua
+

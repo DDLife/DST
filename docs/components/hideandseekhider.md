@@ -1,0 +1,2 @@
+# hideandseekhider.lua
+

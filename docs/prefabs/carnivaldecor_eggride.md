@@ -1,0 +1,2 @@
+# carnivaldecor_eggride.lua
+

@@ -1,0 +1,2 @@
+# savedrotation.lua
+

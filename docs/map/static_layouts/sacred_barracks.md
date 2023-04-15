@@ -1,0 +1,2 @@
+# sacred_barracks.lua
+

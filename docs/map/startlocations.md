@@ -1,0 +1,2 @@
+# startlocations.lua
+

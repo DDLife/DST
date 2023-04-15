@@ -1,0 +1,2 @@
+# farmplantsummarywidget.lua
+

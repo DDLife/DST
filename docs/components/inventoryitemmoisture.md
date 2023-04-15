@@ -1,0 +1,2 @@
+# inventoryitemmoisture.lua
+

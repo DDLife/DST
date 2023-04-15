@@ -1,0 +1,2 @@
+# thurible_smoke.lua
+

@@ -1,0 +1,2 @@
+# burnable.lua
+

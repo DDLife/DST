@@ -1,0 +1,2 @@
+# equippable.lua
+

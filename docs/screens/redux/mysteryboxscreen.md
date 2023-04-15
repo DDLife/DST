@@ -1,0 +1,2 @@
+# mysteryboxscreen.lua
+

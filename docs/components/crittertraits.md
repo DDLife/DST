@@ -1,0 +1,2 @@
+# crittertraits.lua
+

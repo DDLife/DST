@@ -1,0 +1,2 @@
+# hauntable.lua
+

@@ -1,0 +1,2 @@
+# skin_assets.lua
+

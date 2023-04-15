@@ -1,0 +1,2 @@
+# hideandseekhidingspot.lua
+

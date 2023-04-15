@@ -1,0 +1,2 @@
+# barracks.lua
+

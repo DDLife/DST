@@ -1,0 +1,2 @@
+# cookiecutter_spawner.lua
+

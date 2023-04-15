@@ -1,0 +1,2 @@
+# quagmire_altar.lua
+

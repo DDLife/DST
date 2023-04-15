@@ -1,0 +1,2 @@
+# magicskincollector.lua
+

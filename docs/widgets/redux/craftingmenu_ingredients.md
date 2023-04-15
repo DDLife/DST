@@ -1,0 +1,2 @@
+# craftingmenu_ingredients.lua
+

@@ -1,0 +1,2 @@
+# damagetyperesist.lua
+

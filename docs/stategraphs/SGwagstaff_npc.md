@@ -1,0 +1,2 @@
+# SGwagstaff_npc.lua
+

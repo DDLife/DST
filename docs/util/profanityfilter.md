@@ -1,0 +1,2 @@
+# profanityfilter.lua
+

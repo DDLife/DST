@@ -1,0 +1,2 @@
+# terrain_impassable.lua
+

@@ -1,0 +1,2 @@
+# succulent_plant.lua
+

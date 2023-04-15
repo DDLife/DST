@@ -1,0 +1,2 @@
+# mapspotrevealer.lua
+

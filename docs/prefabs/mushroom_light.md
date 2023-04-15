@@ -1,0 +1,2 @@
+# mushroom_light.lua
+

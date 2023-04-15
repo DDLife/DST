@@ -1,0 +1,2 @@
+# emojiexplorerpanel.lua
+

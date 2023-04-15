@@ -1,0 +1,2 @@
+# encounterspanel.lua
+

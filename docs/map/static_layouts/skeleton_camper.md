@@ -1,0 +1,2 @@
+# skeleton_camper.lua
+

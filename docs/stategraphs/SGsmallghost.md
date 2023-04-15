@@ -1,0 +1,2 @@
+# SGsmallghost.lua
+

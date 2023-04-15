@@ -1,0 +1,2 @@
+# equipslot.lua
+

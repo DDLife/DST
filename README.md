@@ -1,4 +1,4 @@
-# template for DS mods
+# Don't Starve Together API
 
 ## file system
 

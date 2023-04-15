@@ -1,0 +1,2 @@
+# skinannouncement.lua
+

@@ -1,0 +1,2 @@
+# lighterfire_haunteddoll.lua
+

@@ -1,0 +1,2 @@
+# characterdetailspanel.lua
+

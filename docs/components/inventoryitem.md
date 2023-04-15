@@ -1,0 +1,2 @@
+# inventoryitem.lua
+

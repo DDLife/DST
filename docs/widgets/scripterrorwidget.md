@@ -1,0 +1,2 @@
+# scripterrorwidget.lua
+

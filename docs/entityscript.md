@@ -1,0 +1,2 @@
+# entityscript.lua
+
